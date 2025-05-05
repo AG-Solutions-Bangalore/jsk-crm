@@ -40,11 +40,11 @@ const ForgetPassword = () => {
         <div className="w-full max-w-md p-8 bg-white/90  rounded-xl shadow-lg  shadow-blue-500 ">
           <div className="flex justify-center mb-4">
           <h1 className="text-2xl font-bold">
-          JSK Private Ltd.
+          JKS Private Ltd.
               </h1>
           </div>
           <h2 className="font-bold text-2xl text-[#002D74]">Forget Password</h2>
-          <p className="text-xs mt-4 text-[#002D74]">Get started with  JSK Private Ltd.</p>
+          <p className="text-xs mt-4 text-[#002D74]">Get started with JKS Private Ltd.</p>
           <form
             method="POST"
             className="mt-8 mb-2 w-full"
