@@ -84,7 +84,7 @@ const SignIn = () => {
             </div>
             <div>
               <h1 className="text-2xl font-bold">
-               JSK Private Ltd.
+              JKS Private Ltd.
               </h1>
             </div>
 

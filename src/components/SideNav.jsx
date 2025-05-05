@@ -55,7 +55,7 @@ const SideNav = ({ openSideNav, setOpenSideNav }) => {
           <div className="flex ">
             <div className=" logo-text">
               <div className="logo-title text-white text-lg font-bold">
-                <span className="font-black">  JSK Private Ltd.</span> 
+                <span className="font-black">  JKS Private Ltd.</span> 
               </div>
             </div>
           </div>
