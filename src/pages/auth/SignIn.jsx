@@ -78,7 +78,8 @@ const SignIn = () => {
               <div>
                 <h2 className="font-bold text-2xl text-[#002D74]">Login</h2>
                 <p className="text-xs mt-4 text-[#002D74]">
-                  If you are already a member, easily log in
+                Already a member? Log in effortlessly.
+
                 </p>
               </div>
             </div>
